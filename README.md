@@ -34,3 +34,4 @@ ManiaOfArt/
 ├── style.css         # Custom styles
 ├── /images           # Folder containing artwork & about images
 └── README.md         # Project documentation
+
