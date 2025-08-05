@@ -25,6 +25,8 @@ This project showcases my artwork and serves as an online portfolio to connect w
 - **JavaScript** – Lightbox functionality & scroll-triggered animations  
 
 ---
+<img width="1847" height="871" alt="image" src="https://github.com/user-attachments/assets/c3ef5bf6-8766-4d1f-9a69-fed336b98bd5" />
+
 
 ## 📂 Project Structure  
 ```bash
@@ -34,5 +36,7 @@ ManiaOfArt/
 ├── style.css         # Custom styles
 ├── /images           # Folder containing artwork & about images
 └── README.md         # Project documentation
-<img width="1847" height="871" alt="image" src="https://github.com/user-attachments/assets/f1e96f31-56cc-4a68-91da-e333885ff779" />
+
+
+
 
