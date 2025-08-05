@@ -34,4 +34,5 @@ ManiaOfArt/
 ├── style.css         # Custom styles
 ├── /images           # Folder containing artwork & about images
 └── README.md         # Project documentation
+<img width="1847" height="871" alt="image" src="https://github.com/user-attachments/assets/f1e96f31-56cc-4a68-91da-e333885ff779" />
 
